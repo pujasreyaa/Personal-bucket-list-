@@ -1,0 +1,41 @@
+body {
+    font-family: Georgia,serif;
+    background-color: #f0f8ff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    color: #000000;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 20px auto;
+}
+li {
+    background: #d8bfd8;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+}
+@media (max-width: 600px) {
+    body {
+        font-size: 16px;
+    }
+    li {
+        font-size: 16px;
+        padding: 10px;
+    }
+}
+li:hover {
+    background-color: #a85eb5;
+    color: #fff;
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
