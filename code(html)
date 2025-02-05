@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <header>
+        <h1>Welcome to My Bucket List</h1>
+    </header>
+
+    
+    <title>My Bucket List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>My Personal Bucket List</h1>
+    <ul>
+        <li>Go to BTS CONCERT🎵</li>
+        <li>Master Web Development ✅</li>
+        <li>Go to International trips✈️</li>
+        <li>Visit the Eiffel Tower ✨ </li>
+        <li>Work in Germany💼</li>
+        <li>Learn Korean language🗣️</li>
+        <li> Learn to play Guitar🎸</li>
+        <li>Build my dream home🏠</li>
+    </ul>
+</body>
+</html>
+<footer>
+    <p>Created by Puja Sreyaa | 2025</p>
+</footer>
